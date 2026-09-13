@@ -41,7 +41,7 @@ entities:
           max: 86400
 
   - entity: number
-    translation_key: motion_sensitivity
+    name: Motion sensitivity
     category: config
     icon: "mdi:motion-sensor"
     dps:
